@@ -1,0 +1,12 @@
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.csprojAssemblyReference.cache
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.csproj.ResolveComReference.cache
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture_Tool.AddCaption.resources
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture_Tool.CaptureTool.resources
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture_Tool.Properties.Resources.resources
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.csproj.GenerateResource.cache
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.csproj.CoreCompileInputs.cache
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\bin\Debug\Capture Tool.exe.config
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\bin\Debug\Capture Tool.exe
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\bin\Debug\Capture Tool.pdb
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.exe
+C:\Users\bhara\source\repos\Capture Tool\Capture Tool\obj\Debug\Capture Tool.pdb
